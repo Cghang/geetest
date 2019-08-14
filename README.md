@@ -13,7 +13,7 @@ ThinkPHP5.1.38LST版本可用的极验扩展
 
 ~~~
 //key配置
-//路径 config/config.php
+//路径 config/geetest.php
 'geetest'=> [
        'captcha_id' =>'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
        'private_key'=>'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx',
