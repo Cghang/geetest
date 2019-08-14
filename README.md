@@ -5,7 +5,7 @@ ThinkPHP5.1.38LST版本可用的极验扩展
 [更多案例](https://www.geetest.com/demo/)
 
 ## 安装
-> composer require thinkphp/geetest
+> composer require Cghang/thinkphp-geetest
 
 ## 使用
 ### 参数配置
